@@ -1,6 +1,6 @@
 
 
-## ToDO
+## ToDo
 
 * Servlet의 Life Cycle에 대해 알아보자.
 
